@@ -1,2 +1,25 @@
-# sudoWright.github.io
-Public Page for sudoWright
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting to github.com/sudoWright/</title>
+    <meta http-equiv="refresh" content="0; URL=https://github.com/sudoWright">
+    <link https://mastodon.social/@jamesmwright" rel="me">
+  </head>
+  <body style="margin: 0; padding: 0">
+    <a
+      href="https://github.com/sudoWright"
+      style="
+        display: block;
+        height: 100vh;
+        width: 100vw;
+        margin: 0;
+        padding: 0;
+        color: white;
+      "
+    >
+      github.com/sudoWright
+    </a>
+  </body>
+</html>
+@sudoWright
