@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>Redirecting to github.com/sudoWright/</title>
+    <title>Redirecting to github.com/sudoWright </title>
     <meta http-equiv="refresh" content="0; URL=https://github.com/sudoWright">
-    <a rel="me" href="https://mastodon.social/@jamesmwright">Mastodon</a>
+    <a rel="me" href="https://mastodon.social/@jamesmwright">Mastodon Account</a>
   </head>
   <body style="margin: 0; padding: 0">
     <a
